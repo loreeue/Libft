@@ -91,3 +91,7 @@ de la aplicación correcta y sucesiva de la función
 ’f’ sobre cada nodo. La función ’del’ se utiliza
 para eliminar el contenido de un nodo, si hace
 falta.
+
+### Aclaración
+
+Este proyecto sigue los estándares de la **Norma de 42**.
