@@ -1,5 +1,7 @@
 ## Libft
-Este proyecto, llamado Libft, consiste en crear una librería personalizada en C que incluye diversas funciones de propósito general. El objetivo es implementar desde cero funciones estándar de la biblioteca libc y otras utilidades adicionales, sin depender de implementaciones externas
+**Libft** es un proyecto desarrollado en 42 Madrid. Consiste en crear una librería personalizada en C que incluye diversas funciones de propósito general. El objetivo es implementar desde cero funciones estándar de la biblioteca libc y otras utilidades adicionales, sin depender de implementaciones externas
+
+![Logo 42 Madrid](42-Madrid.jpeg)
 
 ### PARTE OBLIGATORIA
 - ft_isalpha
