@@ -92,6 +92,13 @@ de la aplicación correcta y sucesiva de la función
 para eliminar el contenido de un nodo, si hace
 falta.
 
+### Cómo Usarlo
+
+1. **Generación de la librería:**
+   ```c
+   make
+   ```
+
 ### Aclaración
 
 Este proyecto sigue los estándares de la **Norma de 42**.
